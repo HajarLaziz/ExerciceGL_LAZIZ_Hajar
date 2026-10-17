@@ -1,0 +1,17 @@
+temperature,toux,fatigue,infecte,split
+36.5,0,0,0,train
+36.8,0,0,0,train
+37.0,1,0,0,train
+36.7,0,1,0,train
+37.1,0,0,0,train
+37.2,1,0,0,train
+38.5,1,1,1,train
+39.0,1,1,1,train
+39.5,1,1,1,train
+38.8,0,1,1,train
+39.2,1,0,1,train
+40.0,1,1,1,train
+36.6,0,0,0,test
+37.0,0,1,0,test
+39.1,1,1,1,test
+39.7,1,0,1,test
